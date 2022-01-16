@@ -1,0 +1,51 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+thead tr th {
+  color:white;
+  background-color: #E70000;
+}
+
+tr th {
+  font-size: 24px;
+}
+
+tr td {
+  font-size: 24px;
+}
+
+th {
+  width: 448px;
+}
+
+th.header {
+  background-color: #E70000;
+}
+
+h1.table {
+  font-weight: bold;
+  color: white;
+}
+
+li.nav-item {
+  font-size: 25px;
+}

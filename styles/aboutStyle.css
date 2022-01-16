@@ -1,0 +1,11 @@
+body {
+
+}
+
+li.list {
+  clear:left;
+}
+
+li.nav-item {
+  font-size: 25px;
+}

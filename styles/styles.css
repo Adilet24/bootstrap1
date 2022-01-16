@@ -1,0 +1,67 @@
+body {
+  background-color: #888;
+}
+
+div.consultation {
+  padding: 30px;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+li.nav-item {
+  font-size: 25px;
+}
+
+/* Title */
+.title-text {
+  margin: 70px 10px 10px 10px;
+}
+
+.btn-book {
+  margin: 10px 240px 10px 240px;
+}
+
+/* Title img */
+.title-img {
+  margin: 30px;
+  width: 90%;
+}
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.feature-box {
+  padding: 2%;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+/* Testimonials section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.testimonial-img {
+  width: 60%;
+}
+
+/* Press */
+
+#press {
+  text-align: center;
+  padding-bottom: 3%;
+}
